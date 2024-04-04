@@ -30,4 +30,4 @@
 #tput sgr0
 ##################################################################################################################
 
-pacman -Rns --noconfirm mugshot menulibre catfish xfce4 xfce4-goodies arcolinux-xfce-prime-git arcolinux-faces-git
+pacman -Rns --noconfirm mugshot menulibre catfish xfce4 xfce4-goodies arconet-xfce arcolinux-faces-git arcolinux-xfce-panel-profiles-git
