@@ -27,7 +27,7 @@
     - mako
     - micro
     - pamixer
-    - picom
+    - picom-git
     - pulsemixer
     - rofi-lbonn-wayland
     - swaybg
@@ -66,9 +66,9 @@
     - mako
     - micro
     - pamixer
-    - picom
-    - pulsemixer
+    - picom-git
     - polkit-gnome
+    - pulsemixer
     - rofi-lbonn-wayland
     - slurp
     - swaybg
